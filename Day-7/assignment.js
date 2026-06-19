@@ -101,8 +101,8 @@ console.log(letters.join(""));
 
 
 //7. lastIndexOf()
-Question 1:
-Create an array ["apple", "banana", "apple", "orange", "apple"]. Find the last index of "apple".
+//Question 1:
+//Create an array ["apple", "banana", "apple", "orange", "apple"]. Find the last index of "apple".
 
 const fruits = ["apple", "banana", "apple", "orange", "apple"];
 const lastIndexOf = fruits.lastIndexOf("apple");
